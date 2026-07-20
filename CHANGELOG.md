@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.4 — Chapter 3 & Chapter 4
+
+- 完成 Chapter 3：記憶與知識庫（Memory、Knowledge Base、RAG 完整說明）
+- 完成 Chapter 4：工具（Tool Calling、Function Calling、MCP、安全機制）
+- 更新 `glossary/Memory.md` 加入更多業界補充
+- 更新 `glossary/Knowledge-Base.md` 加入 Contextual Retrieval 等參考
+- 更新 `glossary/Tool.md` 加入更多工具相關說明
+- 建立 `review/review-02.md` 自評記錄
+
 ## v0.3 — 架構定版
 
 - 建立 `glossary/` 目錄，含 10 個核心名詞條目
