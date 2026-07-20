@@ -22,7 +22,22 @@
 
 - [10 — 模型後訓練（延伸閱讀）——了解模型如何變強](book/10-模型後訓練（延伸閱讀）.md)
 
+## 名詞索引
+
+- [Agent（智慧代理）](glossary/Agent.md)
+- [Context（上下文）](glossary/Context.md)
+- [Memory（記憶）](glossary/Memory.md)
+- [Knowledge Base（知識庫）](glossary/Knowledge-Base.md)
+- [Tool（工具）](glossary/Tool.md)
+- [Workflow（工作流程）](glossary/Workflow.md)
+- [Planning（規劃）](glossary/Planning.md)
+- [Reasoning（推理）](glossary/Reasoning.md)
+- [Evaluation（評估）](glossary/Evaluation.md)
+- [Harness（馬具工程）](glossary/Harness.md)
+
 ## 附錄
 
 - [關於本導讀](../README.md)
+- [寫作規範](../STYLE_GUIDE.md)
+- [版本記錄](../CHANGELOG.md)
 - [原書連結](https://github.com/bojieli/ai-agent-book)

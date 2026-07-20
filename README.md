@@ -94,6 +94,37 @@ Agent = LLM + 上下文 + 工具
 | 09 | 自我進化——越用越聰明 | ⭐⭐⭐ |
 | 10 | 模型後訓練（延伸閱讀）——了解模型如何變強 | ⭐ |
 
+## Repository 結構
+
+```
+AI-Agent-Book-Guide/
+├── README.md              # 本文件
+├── SUMMARY.md             # 閱讀索引
+├── STYLE_GUIDE.md         # 寫作規範
+├── CHANGELOG.md           # 版本記錄
+├── book/                  # 章節內容（01-10）
+│   ├── 01-*.md
+│   ├── 02-*.md
+│   └── ...
+├── glossary/              # 名詞解釋（關鍵字索引）
+│   ├── Agent.md
+│   ├── Context.md
+│   └── ...
+├── review/                # Review 記錄
+│   ├── review-01.md
+│   └── ...
+├── images/                # 圖片資源
+└── references/            # 參考資料
+```
+
+| 目錄/檔案 | 用途 |
+|-----------|------|
+| `book/` | 章節主體內容，每章一個 Markdown |
+| `glossary/` | 核心名詞解釋，方便查閱與交叉引用 |
+| `review/` | 每次 Review 的記錄與修改項目 |
+| `STYLE_GUIDE.md` | 強制規範：標題、表格、星級、案例格式 |
+| `CHANGELOG.md` | 版本演進記錄 |
+
 ## 開發方式
 
 本 Repository 採用 **Review-Driven Development** 流程：
