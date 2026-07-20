@@ -1,13 +1,12 @@
 # Changelog
 
-## v0.6 — Chapter 7 & Chapter 8 + Chapter 5 & 6 Review 微調
+## v0.7 — Final chapters: Ch9 (Multimodal), Ch10 (延伸閱讀) + 全書同步
 
-- Review 微調：Chapter 5 新增「下一章預告」結尾區塊
-- Review 微調：Chapter 6 強化「Demo vs 生產環境」對比、新增 Testing vs Evaluation 比較表、新增「下一章預告」
-- 完成 Chapter 7：多 Agent 協作（概念誕生故事、三種協作模式、Proposer-Reviewer、成本意識）
-- 完成 Chapter 8：自我進化（概念誕生故事、三種學習範式、外部化學習、Reflection）
-- 新增永久寫作規則：每章結尾「下一章預告」
-- 建立 `review/review-04.md` 自評記錄
+- **Chapter 8 更名**：08-多模態 → 08-自我進化（Self Improvement），同步更新 README、SUMMARY、所有交叉連結
+- **README 重寫**：改為「演進式敘事」——每一項技術解決上一代的限制
+- 完成 Chapter 9：多模態與即時互動（三種語音架構、各家廠商策略、4 案例）
+- 完成 Chapter 10：模型後訓練（延伸閱讀）（SFT/RLHF/Constitutional AI/DPO 的概念定位）
+- 建立 `review/review-05.md` 最終 Review 記錄
 
 ## v0.4 — Chapter 3 & Chapter 4
 

@@ -287,4 +287,4 @@ Manager Agent 同時啟動 3 個搜尋 Agent：
 
 [上一章：評估——沒有度量就沒有改進](06-評估.md)
 
-[下一章：自我進化——越用越聰明](08-多模態與即時互動.md)
+[下一章：自我進化（Self Improvement）——越用越聰明](08-自我進化（Self Improvement）.md)
