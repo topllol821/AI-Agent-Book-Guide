@@ -1,12 +1,19 @@
 # Changelog
 
+## v0.5 — Chapter 5 & Chapter 6 + Review 微調
+
+- Review 微調：Chapter 3 重構為問題驅動結構、新增人腦比喻、三方對照表
+- Review 微調：Chapter 4 新增「Tool Calling 不是讓 AI 變聰明，是讓 AI 有手腳」
+- 完成 Chapter 5：Coding Agent（三代演進故事、七核心工具、元能力概念）
+- 完成 Chapter 6：Evaluation（概念誕生故事、Pass@k vs Pass^k、Rubric 設計）
+- 更新 `glossary/Evaluation.md` 加入更多業界參考
+- 建立 `review/review-03.md` 自評記錄
+
 ## v0.4 — Chapter 3 & Chapter 4
 
 - 完成 Chapter 3：記憶與知識庫（Memory、Knowledge Base、RAG 完整說明）
 - 完成 Chapter 4：工具（Tool Calling、Function Calling、MCP、安全機制）
-- 更新 `glossary/Memory.md` 加入更多業界補充
-- 更新 `glossary/Knowledge-Base.md` 加入 Contextual Retrieval 等參考
-- 更新 `glossary/Tool.md` 加入更多工具相關說明
+- 更新 `glossary/Memory.md`、`glossary/Knowledge-Base.md`、`glossary/Tool.md`
 - 建立 `review/review-02.md` 自評記錄
 
 ## v0.3 — 架構定版
