@@ -33,7 +33,8 @@
 - [Planning（規劃）](glossary/Planning.md)
 - [Reasoning（推理）](glossary/Reasoning.md)
 - [Evaluation（評估）](glossary/Evaluation.md)
-- [Harness（馬具工程）](glossary/Harness.md)
+- [RAG（檢索增強生成）](glossary/RAG.md)
+- [Harness（Agent 外圍工程／支撐系統）](glossary/Harness.md)
 
 ## 附錄
 

@@ -1,12 +1,18 @@
 # Changelog
 
-## v0.7 — Final chapters: Ch9 (Multimodal), Ch10 (延伸閱讀) + 全書同步
+## v0.8 — 技術正確性修正（Review-06）
 
-- **Chapter 8 更名**：08-多模態 → 08-自我進化（Self Improvement），同步更新 README、SUMMARY、所有交叉連結
-- **README 重寫**：改為「演進式敘事」——每一項技術解決上一代的限制
-- 完成 Chapter 9：多模態與即時互動（三種語音架構、各家廠商策略、4 案例）
-- 完成 Chapter 10：模型後訓練（延伸閱讀）（SFT/RLHF/Constitutional AI/DPO 的概念定位）
-- 建立 `review/review-05.md` 最終 Review 記錄
+- **Ch1**: Workflow/Agent 比較修正、新增付款確認原則、新增不可逆操作安全原則
+- **Ch2**: 移除無來源的 Persistent Contexts/Stateful API 說法；回寫狀態管理說明；KV Cache 三條鐵律→Prompt Cache 實務原則；時間戳案例改為示意情境
+- **Ch3**: 擴充 Memory/KB/RAG 定義（記憶不限個人偏好、KB 不限共享、RAG 不限向量搜尋）；修正 Deep Research 案例
+- **Ch4**: MCP 定位修正（tools/resources/prompts 協定）；Sidecar 改為可選設計；新增安全順序六大原則
+- **Ch5**: 「七個核心工具」→「一組常見工具集合」；修正測試通過的說法；修正對非工程師的論述；移除 Terminal-Bench 無來源數字；移除 Sessionless 名詞
+- **Ch6**: Testing vs Evaluation 改為非互斥；Pass@k 範例加入獨立性備註；換模型案例改為示意情境
+- **Ch7**: 移除 15 倍成本固定數字；擴充多 Agent 價值來源（平行探索/Context 隔離/專業分工）
+- **Ch8**: 新增受控閉環與安全提醒；移除 Anthropic 生產環境無來源宣稱；案例改為示意情境
+- **Ch9**: GPT-4.1 改為 Realtime API；移除無來源延遲數字（全雙工 <0.2s、VLA 數十毫秒）；公司策略表弱化為快速變化說明
+- **Ch10**: 移除「SFT 記憶，RL 泛化」；修正 DPO 流程說明；修正 Constitutional AI 說明
+- **全書**: README 演進敘事修正（Context→Memory→Tools）；新增 glossary/RAG.md；Harness 中文名修正；移除失效的 OpenClaw 連結
 
 ## v0.4 — Chapter 3 & Chapter 4
 
