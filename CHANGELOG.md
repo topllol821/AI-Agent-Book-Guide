@@ -1,13 +1,13 @@
 # Changelog
 
-## v0.5 — Chapter 5 & Chapter 6 + Review 微調
+## v0.6 — Chapter 7 & Chapter 8 + Chapter 5 & 6 Review 微調
 
-- Review 微調：Chapter 3 重構為問題驅動結構、新增人腦比喻、三方對照表
-- Review 微調：Chapter 4 新增「Tool Calling 不是讓 AI 變聰明，是讓 AI 有手腳」
-- 完成 Chapter 5：Coding Agent（三代演進故事、七核心工具、元能力概念）
-- 完成 Chapter 6：Evaluation（概念誕生故事、Pass@k vs Pass^k、Rubric 設計）
-- 更新 `glossary/Evaluation.md` 加入更多業界參考
-- 建立 `review/review-03.md` 自評記錄
+- Review 微調：Chapter 5 新增「下一章預告」結尾區塊
+- Review 微調：Chapter 6 強化「Demo vs 生產環境」對比、新增 Testing vs Evaluation 比較表、新增「下一章預告」
+- 完成 Chapter 7：多 Agent 協作（概念誕生故事、三種協作模式、Proposer-Reviewer、成本意識）
+- 完成 Chapter 8：自我進化（概念誕生故事、三種學習範式、外部化學習、Reflection）
+- 新增永久寫作規則：每章結尾「下一章預告」
+- 建立 `review/review-04.md` 自評記錄
 
 ## v0.4 — Chapter 3 & Chapter 4
 
