@@ -200,7 +200,29 @@ Agent 是工具，不是取代者。
 - **傳統 RL（強化學習）與 LLM 的詳細對比**：不是初學者需要關心的
 - **尋寶遊戲的 Q-learning 實驗細節**：那是為了對照 RL 背景讀者，一般讀者跳過
 - **Precision / Recall / F1 的深入討論**：評估章節會講
-- **LLM 訓練流程的細節**：那是第十章的事
+- **LLM 訓練流程的細節**：那是第十章（延伸閱讀）的事
+
+## 一句話記住
+
+> **Agent = LLM + 上下文 + 工具**
+
+大腦（LLM）＋ 眼睛（Context）＋ 手腳（Tools）＝ 能自主完成任務的系統。
+
+## 相關工具／GitHub
+
+| 星級 | 工具 | 說明 |
+|------|------|------|
+| ★★★★★ | [OpenAI Agents SDK](https://github.com/openai/openai-agents-sdk) | OpenAI 官方 Agent 框架，示範了 Agent = LLM + Context + Tools 的標準實作 |
+| ★★★★★ | [Claude Code](https://github.com/anthropics/claude-code) | Anthropic 的 Coding Agent，最能體現「Agent 自主完成任務」的產品 |
+| ★★★★☆ | [OpenCode](https://github.com/anomalyco/opencode) | 開源 Coding Agent，展示了 Agent 如何在命令列環境中自主工作 |
+| ★★★★☆ | [LangGraph](https://github.com/langchain-ai/langgraph) | LangChain 的 Agent 框架，展示了 Agent 與 Workflow 的混合模式 |
+| ★★★☆☆ | [AutoGen](https://github.com/microsoft/autogen) | 微軟的多 Agent 框架，可以先了解但初學階段還用不到 |
+
+## 延伸閱讀
+
+- **原書第一章**：更詳細的技術討論與傳統 RL 的對比
+- **[OpenAI Function Calling 文件](https://platform.openai.com/docs/guides/function-calling)**：官方對 Tool Calling 的完整說明
+- **[ReAct 論文 (Yao et al., 2022)](https://arxiv.org/abs/2210.03629)**：Reasoning + Acting 的原始論文
 
 ## 本章重點
 
